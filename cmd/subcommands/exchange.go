@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/xb/gotron-sdk/pkg/address"
-	"github.com/xb/gotron-sdk/pkg/client/transaction"
-	"github.com/xb/gotron-sdk/pkg/common"
-	"github.com/xb/gotron-sdk/pkg/keystore"
-	"github.com/xb/gotron-sdk/pkg/store"
+	"github.com/xiongbiao/gotron-sdk/pkg/address"
+	"github.com/xiongbiao/gotron-sdk/pkg/client/transaction"
+	"github.com/xiongbiao/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/gotron-sdk/pkg/keystore"
+	"github.com/xiongbiao/gotron-sdk/pkg/store"
 )
 
 var (

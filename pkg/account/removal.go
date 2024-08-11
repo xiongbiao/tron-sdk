@@ -6,8 +6,8 @@ import (
 	"path"
 
 	"github.com/mitchellh/go-homedir"
-	"github.com/xb/gotron-sdk/pkg/common"
-	"github.com/xb/gotron-sdk/pkg/store"
+	"github.com/xiongbiao/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/gotron-sdk/pkg/store"
 )
 
 // RemoveAccount - removes an account from the keystore

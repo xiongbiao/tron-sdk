@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/xb/gotron-sdk/pkg/client"
+	"github.com/xiongbiao/gotron-sdk/pkg/client"
 	"google.golang.org/grpc"
 )
 

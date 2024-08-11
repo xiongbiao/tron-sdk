@@ -1,4 +1,4 @@
-module github.com/xb/gotron-sdk
+module github.com/xiongbiao/gotron-sdk
 
 go 1.21
 

@@ -31,7 +31,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/pborman/uuid"
-	"github.com/xb/gotron-sdk/pkg/address"
+	"github.com/xiongbiao/gotron-sdk/pkg/address"
 )
 
 const (

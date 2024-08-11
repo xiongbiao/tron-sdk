@@ -5,10 +5,10 @@ import (
 	"os"
 	"path"
 
-	cmd "github.com/xb/gotron-sdk/cmd/subcommands"
+	cmd "github.com/xiongbiao/gotron-sdk/cmd/subcommands"
 	// Need this side effect
 	"github.com/spf13/cobra"
-	_ "github.com/xb/gotron-sdk/pkg/store"
+	_ "github.com/xiongbiao/gotron-sdk/pkg/store"
 )
 
 var (

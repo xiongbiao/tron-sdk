@@ -3,9 +3,9 @@ package client
 import (
 	"fmt"
 
-	"github.com/xb/gotron-sdk/pkg/common"
-	"github.com/xb/gotron-sdk/pkg/proto/api"
-	"github.com/xb/gotron-sdk/pkg/proto/core"
+	"github.com/xiongbiao/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/gotron-sdk/pkg/proto/api"
+	"github.com/xiongbiao/gotron-sdk/pkg/proto/core"
 	"google.golang.org/grpc"
 )
 

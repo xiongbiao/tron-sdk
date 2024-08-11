@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/xb/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/gotron-sdk/pkg/common"
 	"gopkg.in/yaml.v2"
 )
 

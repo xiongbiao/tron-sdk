@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/xb/gotron-sdk/pkg/proto/core"
+	"github.com/xiongbiao/gotron-sdk/pkg/proto/core"
 )
 
 // FrozenResource by account

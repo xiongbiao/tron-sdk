@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/cobra"
-	"github.com/xb/gotron-sdk/pkg/address"
+	"github.com/xiongbiao/gotron-sdk/pkg/address"
 )
 
 func init() {
