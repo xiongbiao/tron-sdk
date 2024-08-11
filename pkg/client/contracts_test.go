@@ -8,10 +8,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/xiongbiao/gotron-sdk/pkg/abi"
-	"github.com/xiongbiao/gotron-sdk/pkg/client"
-	"github.com/xiongbiao/gotron-sdk/pkg/proto/api"
-	"github.com/xiongbiao/gotron-sdk/pkg/proto/core"
+	"github.com/xiongbiao/tron-sdk/pkg/abi"
+	"github.com/xiongbiao/tron-sdk/pkg/client"
+	"github.com/xiongbiao/tron-sdk/pkg/proto/api"
+	"github.com/xiongbiao/tron-sdk/pkg/proto/core"
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/proto"
 )

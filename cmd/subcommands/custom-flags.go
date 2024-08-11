@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/pkg/errors"
-	"github.com/xiongbiao/gotron-sdk/pkg/address"
+	"github.com/xiongbiao/tron-sdk/pkg/address"
 )
 
 type tronAddress struct {

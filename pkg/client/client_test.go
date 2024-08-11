@@ -8,7 +8,7 @@ import (
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/stretchr/testify/require"
-	"github.com/xiongbiao/gotron-sdk/pkg/client"
+	"github.com/xiongbiao/tron-sdk/pkg/client"
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/proto"
 )

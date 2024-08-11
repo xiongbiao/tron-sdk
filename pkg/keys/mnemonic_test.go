@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xiongbiao/gotron-sdk/pkg/keys"
+	"github.com/xiongbiao/tron-sdk/pkg/keys"
 )
 
 func Test_mnemonic_to_pk(t *testing.T) {

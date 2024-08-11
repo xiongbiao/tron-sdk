@@ -1,9 +1,9 @@
 package account
 
 import (
-	"github.com/xiongbiao/gotron-sdk/pkg/keys"
-	"github.com/xiongbiao/gotron-sdk/pkg/mnemonic"
-	"github.com/xiongbiao/gotron-sdk/pkg/store"
+	"github.com/xiongbiao/tron-sdk/pkg/keys"
+	"github.com/xiongbiao/tron-sdk/pkg/mnemonic"
+	"github.com/xiongbiao/tron-sdk/pkg/store"
 )
 
 // Creation struct for account

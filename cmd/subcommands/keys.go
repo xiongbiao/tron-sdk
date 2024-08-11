@@ -8,17 +8,17 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/fatih/color"
-	"github.com/xiongbiao/gotron-sdk/pkg/account"
-	"github.com/xiongbiao/gotron-sdk/pkg/address"
-	"github.com/xiongbiao/gotron-sdk/pkg/common"
-	c "github.com/xiongbiao/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/tron-sdk/pkg/account"
+	"github.com/xiongbiao/tron-sdk/pkg/address"
+	"github.com/xiongbiao/tron-sdk/pkg/common"
+	c "github.com/xiongbiao/tron-sdk/pkg/common"
 	"golang.org/x/crypto/ssh/terminal"
 
 	"github.com/spf13/cobra"
 	"github.com/tyler-smith/go-bip39"
-	"github.com/xiongbiao/gotron-sdk/pkg/ledger"
-	"github.com/xiongbiao/gotron-sdk/pkg/mnemonic"
-	"github.com/xiongbiao/gotron-sdk/pkg/store"
+	"github.com/xiongbiao/tron-sdk/pkg/ledger"
+	"github.com/xiongbiao/tron-sdk/pkg/mnemonic"
+	"github.com/xiongbiao/tron-sdk/pkg/store"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xiongbiao/gotron-sdk/pkg/common"
+	"github.com/xiongbiao/tron-sdk/pkg/common"
 )
 
 func Test_DecodeBase58(t *testing.T) {

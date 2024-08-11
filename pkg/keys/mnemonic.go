@@ -5,7 +5,7 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/tyler-smith/go-bip39"
-	"github.com/xiongbiao/gotron-sdk/pkg/keys/hd"
+	"github.com/xiongbiao/tron-sdk/pkg/keys/hd"
 )
 
 // FromMnemonicSeedAndPassphrase derive form mnemonic and passphrase at index

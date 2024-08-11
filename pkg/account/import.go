@@ -13,10 +13,10 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	mapset "github.com/deckarep/golang-set"
-	"github.com/xiongbiao/gotron-sdk/pkg/common"
-	"github.com/xiongbiao/gotron-sdk/pkg/keystore"
-	"github.com/xiongbiao/gotron-sdk/pkg/mnemonic"
-	"github.com/xiongbiao/gotron-sdk/pkg/store"
+	"github.com/xiongbiao/tron-sdk/pkg/common"
+	"github.com/xiongbiao/tron-sdk/pkg/keystore"
+	"github.com/xiongbiao/tron-sdk/pkg/mnemonic"
+	"github.com/xiongbiao/tron-sdk/pkg/store"
 )
 
 // ImportFromPrivateKey allows import of an ECDSA private key

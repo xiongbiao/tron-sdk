@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/xiongbiao/gotron-sdk/pkg/proto/api"
-	"github.com/xiongbiao/gotron-sdk/pkg/proto/core"
+	"github.com/xiongbiao/tron-sdk/pkg/proto/api"
+	"github.com/xiongbiao/tron-sdk/pkg/proto/core"
 )
 
 // GetTransactionSignWeight queries transaction sign weight

@@ -7,10 +7,10 @@ import (
 	"path"
 
 	"github.com/pkg/errors"
-	"github.com/xiongbiao/gotron-sdk/pkg/address"
-	"github.com/xiongbiao/gotron-sdk/pkg/common"
-	c "github.com/xiongbiao/gotron-sdk/pkg/common"
-	"github.com/xiongbiao/gotron-sdk/pkg/keystore"
+	"github.com/xiongbiao/tron-sdk/pkg/address"
+	"github.com/xiongbiao/tron-sdk/pkg/common"
+	c "github.com/xiongbiao/tron-sdk/pkg/common"
+	"github.com/xiongbiao/tron-sdk/pkg/keystore"
 
 	homedir "github.com/mitchellh/go-homedir"
 )

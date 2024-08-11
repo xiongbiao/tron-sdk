@@ -7,8 +7,8 @@
 package util
 
 import (
-	api "github.com/xiongbiao/gotron-sdk/pkg/proto/api"
-	core "github.com/xiongbiao/gotron-sdk/pkg/proto/core"
+	api "github.com/xiongbiao/tron-sdk/pkg/proto/api"
+	core "github.com/xiongbiao/tron-sdk/pkg/proto/core"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

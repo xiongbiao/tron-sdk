@@ -41,7 +41,7 @@ import (
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/pborman/uuid"
-	"github.com/xiongbiao/gotron-sdk/pkg/address"
+	"github.com/xiongbiao/tron-sdk/pkg/address"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"
 )
